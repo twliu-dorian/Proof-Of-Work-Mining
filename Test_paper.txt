@@ -1,0 +1,26 @@
+height = '#0':
+
+nonce = 0x7c2bac1b     hash = b'e21115f96ee0eaad062fd170942b91bb1f43b395757eb87e5a7c97e9823d1383'
+nonce = 0x7c2bac1c     hash = b'8cdc343dc1ca87b0fae7d09a6537a536fec9784a3c4541b770bfb5881c5d66d9'
+nonce = 0x7c2bac1d     hash = b'000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'
+
+
+##########################################
+
+height = '#566022':
+
+nonce = 0x7a92319d     hash = b'3d3cf2ba3780074b7668b2f3e32b05b7ba76ac0fecb023ee7b6b2864475ddeb6'
+nonce = 0x7a92319e     hash = b'5389a1ded7537d5ea86965f3b94563f1fb05547abf64c16c7ee1131bc739b2ae'
+nonce = 0x7a92319f     hash = b'0000000000000000001834a4c63c1c8763b61797c76a13646b94ac467d48d015'
+
+
+##########################################
+
+height = '#566023':
+
+nonce = 0xae443126     hash = b'2fb2cc31c7fe3a822ae705d908fa7a46e04640c47a2d439d3e5e717b22abbbf6'
+nonce = 0xae443127     hash = b'39160b7b117554d54c239d69e875d5fe44964ff07a6cc8e3449c32881dec814f'
+nonce = 0xae443128     hash = b'00000000000000000025a9c24d3f7cac8a2acf9ee6fbf627cc71cd1b8942da43'
+
+
+##########################################
